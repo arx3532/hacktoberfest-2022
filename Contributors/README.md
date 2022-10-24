@@ -9,6 +9,11 @@
   <th>Contribution</th>
 </tr>
 <tr>
+<td align="center"><a href="https://github.com/arx3532"><img src="https://avatars.githubusercontent.com/u/92500255?s=40&v=4"                   
+width="100px;" alt=""/><br /><sub><b>Vishal</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/screenshot_ARX.png"></td>
+</tr>
+<tr>
 <td align="center"><a href="https://github.com/hks3333"><img src="https://avatars.githubusercontent.com/u/116485370?s=40&v=4"                   
 width="100px;" alt=""/><br /><sub><b>Harikrishnan</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_harikrishnan.png"></td>
